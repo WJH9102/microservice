@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4925e226-132e-40de-baad-d652631bdb64" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="4925e226-132e-40de-baad-d652631bdb64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/microservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city/micro_city.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city/src/main/java/cn/junhaox/micro_city/MicroCityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city/src/main/java/cn/junhaox/micro_city/contorller/CityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city/src/main/java/cn/junhaox/micro_city/entity/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city/src/main/java/cn/junhaox/micro_city/mapper/CityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city/src/main/java/cn/junhaox/micro_city/service/CityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city2/src/main/java/cn/junhaox/micro_city2/MicroCity2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city2/src/main/java/cn/junhaox/micro_city2/contorller/CityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city2/src/main/java/cn/junhaox/micro_city2/entity/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city2/src/main/java/cn/junhaox/micro_city2/mapper/CityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city2/src/main/java/cn/junhaox/micro_city2/mapper/xml/CityMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city2/src/main/java/cn/junhaox/micro_city2/service/CityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city3/src/main/java/cn.junhaox.micro_city3/MicroCity3Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city3/src/main/java/cn.junhaox.micro_city3/dao/CityDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city3/src/main/java/cn.junhaox.micro_city3/entity/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city3/src/main/java/cn.junhaox.micro_city3/service/CityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city3/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city3/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_city3/src/test/java/cn/junhaox/micro_city3/MicroCity3ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_person/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/MicroPersonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/dao/PersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_person/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro_common/src/main/java/cn/junhaox/entity/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro_common/src/main/java/cn/junhaox/entity/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro_common/src/main/java/cn/junhaox/entity/StatusCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro_common/src/main/java/cn/junhaox/entity/StatusCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,17 +52,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="D:\devTools\maven\maven-3.5.4\conf\settings.xml" />
+        <option name="userSettingsFile" value="D:\devTools\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -31,23 +75,117 @@
     </option>
   </component>
   <component name="ProjectId" id="1gOhEt3pEAHDOAbcwv2laV5L3H6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/ProgramFiles/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/micro_city3/src/main/resources" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.junhaox.micro_city.entity.City" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\idea\microservice\micro_city3\src\main\resources" />
+      <recent name="D:\workspace\idea\microservice\micro_city3\src\main\java" />
+      <recent name="D:\workspace\idea\microservice\micro_city2\src\main\resources" />
+      <recent name="D:\workspace\idea\microservice\micro_city2\src\main\java\cn\junhaox\micro_city2" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.junhaox.micro_city3" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\idea\microservice\micro_city2\src\main\java\cn\junhaox\micro_city2\mapper\xml" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MicroPersonApplication">
+    <configuration name="MicroCity3ApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micro_city3" />
+      <option name="PACKAGE_NAME" value="cn.junhaox.micro_city3" />
+      <option name="MAIN_CLASS_NAME" value="cn.junhaox.micro_city3.MicroCity3ApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroCity3ApplicationTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micro_city3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.junhaox.micro_city3" />
+      <option name="MAIN_CLASS_NAME" value="cn.junhaox.micro_city3.MicroCity3ApplicationTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroCity2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro_city2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.junhaox.micro_city2.MicroCity2Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroCity3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro_city3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.junhaox.micro_city3.MicroCity3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroCityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro_city" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.junhaox.micro_city.MicroCityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroPersonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="micro_person" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.junhaox.micro_person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.junhaox.micro_person.MicroPersonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MicroCityApplication" />
+      <item itemvalue="Spring Boot.MicroCity2Application" />
+      <item itemvalue="Spring Boot.MicroCity3Application" />
+      <item itemvalue="JUnit.MicroCity3ApplicationTest.test" />
+      <item itemvalue="JUnit.MicroCity3ApplicationTest" />
+      <item itemvalue="Spring Boot.MicroPersonApplication" />
+    </list>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Spring Boot.MicroPersonApplication" />
+        <item itemvalue="JUnit.MicroCity3ApplicationTest.test" />
+        <item itemvalue="JUnit.MicroCity3ApplicationTest" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,10 +198,107 @@
       <option name="presentableId" value="Default" />
       <updated>1597991437805</updated>
       <workItem from="1597991440811" duration="3661000" />
+      <workItem from="1598063469990" duration="8891000" />
+      <workItem from="1598091772145" duration="2171000" />
+      <workItem from="1598153326232" duration="7629000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Assign_Data_Sources" timestamp="1598171752131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Assign_Data_Sources/0.0.1920.1040@0.0.1920.1040" timestamp="1598171752131" />
+    <state x="552" y="179" key="#Inspections" timestamp="1598087215831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1598087215831" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598091414444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598091414444" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1598171769063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598171769063" />
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598091398155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598091398155" />
+    <state x="765" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598090829157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598090829157" />
+    <state x="739" y="379" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598155561739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="379" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1598155561739" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598063504801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598063504801" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1598178045430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045430" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1598178045431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598178045431" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1598063507387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598063507387" />
+    <state x="717" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598171759491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598171759491" />
+    <state x="334" y="130" key="new project wizard" timestamp="1598169498059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598169498059" />
   </component>
 </project>

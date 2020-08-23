@@ -6,7 +6,7 @@ package cn.junhaox.entity;
  * @date 2020/8/21 14:55
  * @Email ibytecode2020@gmail.com
  */
-public enum StatusCode {
+public enum StatusCode implements java.io.Serializable {
     OK("成功", 20000),
     ERROR("失败", 50000);
     private String desc;

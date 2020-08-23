@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="micro_city2" />
+        <module name="micro_city" />
         <module name="micro_common" />
+        <module name="micro_person" />
+        <module name="micro_city3" />
       </profile>
     </annotationProcessing>
   </component>

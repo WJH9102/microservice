@@ -6,10 +6,24 @@ package cn.junhaox.entity;
  * @date 2020/8/21 14:54
  * @Email ibytecode2020@gmail.com
  */
-public class Message {
+public class Message implements java.io.Serializable {
     private Boolean flag;
     private Integer code;
     private Object data;
+
+    public Message() {
+    }
+
+    public Message(Boolean flag, Integer code) {
+        this.flag = flag;
+        this.code = code;
+    }
+
+    public Message(Boolean flag, Integer code, Object data) {
+        this.flag = flag;
+        this.code = code;
+        this.data = data;
+    }
 
     public Boolean getFlag() {
         return flag;

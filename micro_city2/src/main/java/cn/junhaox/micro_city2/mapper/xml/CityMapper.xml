@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.junhaox.micro_city2.mapper.CityMapper">
+
+
+    <insert id="addCity" parameterType="cn.junhaox.micro_city2.entity.City">
+        insert into city(id, name, area) values (#{id}, #{name}, #{area})
+    </insert>
+
+    <delete id="deleteCity" parameterType="java.lang.Integer">
+        delete from city where id = #{id}
+    </delete>
+
+    <update id="updateCity" parameterType="cn.junhaox.micro_city2.entity.City">
+        update city set name = #{name}, area = #{area} where id = #{id}
+    </update>
+
+    <select id="queryCities" resultType="cn.junhaox.micro_city2.entity.City">
+        select * from city
+    </select>
+
+</mapper>
