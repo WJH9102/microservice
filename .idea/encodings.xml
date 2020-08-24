@@ -2,14 +2,18 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro_city" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro_city/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro_city/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro_city2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro_city2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro_city2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro_city3" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro_city3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro_city3/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro_common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro_common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro_person" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro_person/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro_person/src/main/resources" charset="UTF-8" />
   </component>

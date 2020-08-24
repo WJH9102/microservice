@@ -5,7 +5,8 @@ spring:
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://192.168.0.20:3306/micro_person?characterEncoding=utf-8
+#    url: jdbc:mysql://192.168.0.20:3306/micro_person?characterEncoding=utf-8
+    url: jdbc:mysql://192.168.2.128:3306/micro_person?characterEncoding=utf-8
   jpa:
     database: mysql
     generate-ddl: true # 利用jpa，根据实体类自动生成相应表
