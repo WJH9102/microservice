@@ -57,4 +57,11 @@ public interface PersonDao extends JpaRepository<Person, String>, JpaSpecificati
     @Query(nativeQuery = true, value = "delete from tb_person where id = :id")
     Integer deletePersonById(@Param("id") String id);
 
+    /**
+     * 查询多表  -> 每个城市的人数
+     * @return 每行数据是一个数组，有多行
+     */
+    @Query(nativeQuery = true, value = "select a.name, count(1) as 'count' from tb_address a INNER JOIN tb_person b ON a.id = b.address GROUP BY a.`name`")
+    List<Object[]> findAddressNameAndCount();
+
 }

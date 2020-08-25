@@ -105,5 +105,10 @@ public class PersonController {
         return new Message(true, StatusCode.OK.getCode(), personService.findByIdIn(ids));
     }
 
+    @GetMapping("/findAddressNameAndCount")
+    public Message findAddressNameAndCount() {
+        return new Message(true, StatusCode.OK.getCode(), personService.findAddressNameAndCount());
+    }
+
 
 }

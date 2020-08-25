@@ -7,8 +7,12 @@ package cn.junhaox.entity;
  * @Email ibytecode2020@gmail.com
  */
 public enum StatusCode implements java.io.Serializable {
+    // 响应状态码，成功
     OK("成功", 20000),
-    ERROR("失败", 50000);
+    // 响应状态码，失败
+    ERROR("失败", 50000),
+    // http请求状态码
+    HTTP_OK_CODE("响应成功", 200);
     private String desc;
     private Integer code;
     StatusCode(String desc, Integer code) {

@@ -91,4 +91,8 @@ public class PersonService {
         return personDao.findByIdIn(ids);
     }
 
+    public List<Object[]> findAddressNameAndCount() {
+        return personDao.findAddressNameAndCount();
+    }
+
 }

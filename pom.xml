@@ -14,6 +14,8 @@
         <module>micro_city2</module>
         <module>micro_city3</module>
         <module>micro_person</module>
+        <module>project_httpclient</module>
+        <module>micro_httpclient</module>
     </modules>
 
     <properties>

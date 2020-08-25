@@ -16,14 +16,14 @@ public class Person implements java.io.Serializable {
     private String id;
     private String name;
     private Integer age;
-    private String address;
+    private Integer address;
 
-    public String getAddress() {
+    public Integer getAddress() {
         return address;
     }
 
-    public void setAddress(String address) {
-        this.address = address;
+    public void setAddress(Integer addrId) {
+        this.address = addrId;
     }
 
     public String getId() {

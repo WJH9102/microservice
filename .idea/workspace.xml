@@ -2,22 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4925e226-132e-40de-baad-d652631bdb64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/micro_httpclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_httpclient/src/main/java/cn/junhaox/micro_httpclient/MicroHttpclientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_httpclient/src/main/java/cn/junhaox/micro_httpclient/config/HttpClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_httpclient/src/main/java/cn/junhaox/micro_httpclient/service/HttpClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_httpclient/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_httpclient/src/test/java/cn/junhaox/micro_httpclient/MicroHttpclientApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_httpclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_httpclient/src/main/java/cn/junhaox/project_httpclient/HttpClientDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_httpclient/src/main/java/cn/junhaox/project_httpclient/HttpClientDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_httpclient/src/main/java/cn/junhaox/project_httpclient/HttpClientDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_httpclient/src/main/java/cn/junhaox/project_httpclient/HttpClientDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_httpclient/src/main/java/cn/junhaox/project_httpclient/HttpClientDemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_httpclient/src/main/java/cn/junhaox/project_httpclient/HttpClientDemo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_httpclient/src/main/java/cn/junhaox/project_httpclient/RequestParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro_city/micro_city.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro_common/target/classes/cn/junhaox/entity/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/micro_common/target/classes/cn/junhaox/entity/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro_common/src/main/java/cn/junhaox/entity/StatusCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro_common/src/main/java/cn/junhaox/entity/StatusCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro_common/target/classes/cn/junhaox/entity/StatusCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/micro_common/target/classes/cn/junhaox/entity/StatusCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro_person/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/controller/PersonController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/dao/PersonDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/dao/PersonDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/entity/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/src/main/java/cn/junhaox/micro_person/service/PersonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro_person/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro_person/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro_person/target/classes/cn/junhaox/micro_person/controller/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/target/classes/cn/junhaox/micro_person/controller/PersonController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro_person/target/classes/cn/junhaox/micro_person/dao/PersonDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/target/classes/cn/junhaox/micro_person/dao/PersonDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro_person/target/classes/cn/junhaox/micro_person/entity/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/target/classes/cn/junhaox/micro_person/entity/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro_person/target/classes/cn/junhaox/micro_person/service/PersonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/micro_person/target/classes/cn/junhaox/micro_person/service/PersonService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +77,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.junhaox.project_httpclient" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -76,7 +94,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MicroPersonApplication">
+  <component name="RunManager" selected="JUnit.MicroHttpclientApplicationTest.test2">
+    <configuration name="HttpClientDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.junhaox.project_httpclient.HttpClientDemo02" />
+      <module name="project_httpclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.junhaox.project_httpclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClientDemo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.junhaox.project_httpclient.HttpClientDemo06" />
+      <module name="project_httpclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.junhaox.project_httpclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroHttpclientApplicationTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micro_httpclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.junhaox.micro_httpclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.junhaox.micro_httpclient" />
+      <option name="MAIN_CLASS_NAME" value="cn.junhaox.micro_httpclient.MicroHttpclientApplicationTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroHttpclientApplicationTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micro_httpclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.junhaox.micro_httpclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.junhaox.micro_httpclient" />
+      <option name="MAIN_CLASS_NAME" value="cn.junhaox.micro_httpclient.MicroHttpclientApplicationTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MicroCity2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="micro_city2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.junhaox.micro_city2.MicroCity2Application" />
@@ -98,22 +174,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MicroPersonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="micro_person" />
+    <configuration name="MicroHttpclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="micro_httpclient" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.junhaox.micro_person.*" />
+          <option name="PATTERN" value="cn.junhaox.micro_httpclient.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.junhaox.micro_person.MicroPersonApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.junhaox.micro_httpclient.MicroHttpclientApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MicroPersonApplication" />
+        <item itemvalue="JUnit.MicroHttpclientApplicationTest.test2" />
+        <item itemvalue="JUnit.MicroHttpclientApplicationTest.test1" />
+        <item itemvalue="Spring Boot.MicroHttpclientApplication" />
+        <item itemvalue="Application.HttpClientDemo02" />
+        <item itemvalue="Application.HttpClientDemo06" />
       </list>
     </recent_temporary>
   </component>
@@ -128,8 +208,17 @@
       <option name="presentableId" value="Default" />
       <updated>1597991437805</updated>
       <workItem from="1597991440811" duration="3664000" />
-      <workItem from="1598229691729" duration="14956000" />
+      <workItem from="1598229691729" duration="15017000" />
+      <workItem from="1598317864687" duration="20398000" />
     </task>
+    <task id="LOCAL-00001" summary="原生SQL查询">
+      <created>1598258288598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598258288598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,5 +236,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="原生SQL查询" />
+    <option name="LAST_COMMIT_MESSAGE" value="原生SQL查询" />
   </component>
 </project>
